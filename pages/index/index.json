@@ -1,4 +1,6 @@
 {
-  "usingComponents": {},
-  "navigationBarTitleText": "Krarry商城首页"
+  "usingComponents": {
+    "SearchInput":"../../components/SearchInput/SearchInput"
+  },
+  "navigationBarTitleText": "Krarry商城"
 }
